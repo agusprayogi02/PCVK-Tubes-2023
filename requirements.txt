@@ -6,3 +6,4 @@ matplotlib
 imutils
 Pillow
 numpy
+tqdm
